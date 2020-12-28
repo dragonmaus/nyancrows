@@ -1,0 +1,47 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 0, "Y": 32, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 0, "Y": 32, "Width": 16, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 96, "Y": 416, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 96, "Y": 416, "Width": 16, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 16, "Y": 448, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 16, "Y": 448, "Width": 16, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 96, "Y": 480, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 96, "Y": 480, "Width": 16, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 0, "Y": 544, "Width": 80, "Height": 32 },
+      "ToArea": { "X": 0, "Y": 544, "Width": 80, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/Craftables.png",
+      "FromArea": { "X": 112, "Y": 640, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 112, "Y": 640, "Width": 16, "Height": 32 }
+    }
+  ]
+}
